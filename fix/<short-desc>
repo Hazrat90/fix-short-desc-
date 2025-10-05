@@ -1,0 +1,42 @@
+feat(readme): add quick start example for WonkBase token
+
+- add usage snippet
+- update install instructions
+Closes #42
+
+fix(address): handle 0x3607a3217D6C329bAF536646aCF3391CDa0Ef306
+
+## What
+Short description of the change (1-2 sentences).
+
+## Why
+Explain the bug/feature, and why it's needed.
+
+## How I tested
+- Local tests: `npm test` (describe)
+- Manual test steps: 1) ..., 2) ...
+- Screenshots/logs (if any) attached below
+
+## Related
+- Fixes / Closes issue #<number>
+- Related PRs: #<number>
+
+## Notes for maintainers
+Anything the reviewer should know (edge cases, migration steps, backwards compatibility).
+
+### Describe the bug / feature
+Concise description
+
+### Reproduction steps
+1. Steps to reproduce
+2. Expected behavior
+3. Actual behavior
+
+### Environment
+- OS:
+- Node/npm version:
+- Repo version / commit:
+
+### Additional context / logs
+ paste logs, stack traces, or screenshots here
+
