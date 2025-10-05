@@ -1,6 +1,4 @@
 
-ChatGPT
-You said:
 Create a Public GitHub Contributions for talent protocol wct reward 
 ChatGPT said:
 
